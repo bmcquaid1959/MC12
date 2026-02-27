@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-About this site
+Edited and committed/pushed from laptop to github by Bob
 
 ```{r}
 1 + 1
