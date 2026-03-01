@@ -2,8 +2,73 @@
 title: "About"
 ---
 
-About this site
+## Officers
 
-```{r}
-1 + 1
-```
+-   Bobby Patel, Chair (2027)
+
+-   Tom Zengeler, Vice-Chair (2029)
+
+-   Nicole Fazio, Secretary (2031)
+
+## Executive Members
+
+::: {layout-ncol="2"}
+
+::: {}
+
+-   Shawn McCann BES
+
+-   Norm Ravagnani BES
+
+-   Jeff Chapman CLA
+
+-   Steve Arnold CLA
+
+-   David Slan CRE
+
+-   Jack Culotta CRE
+
+-   Christa Hagearty DEP
+
+-   Don Fawcett DEP
+
+-   Carlyn Parker DEP
+
+-   Steve Fazio FAZ
+
+-   Nicole Fazio FAZ
+
+:::
+
+::: {}
+
+-   Steve Klinke KLI
+
+-   Rich Klinke KLI
+
+-   Bobby Patel KON
+
+-   Drew Goldberg DOS
+
+-   Brett Goldberg DOS
+
+-   Jeff Newman, Jr TOD
+
+-   Matthew Newman TOD
+
+-   Tim West TOD
+
+-   Tom Zengeler ZEN
+
+-   John Mertes ZIK
+
+-   Jami Olesen ZIK
+
+:::
+
+:::
+
+## Facilitator
+
+- Bob McQuaid
+
