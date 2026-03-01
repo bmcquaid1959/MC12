@@ -1,0 +1,39 @@
+---
+title: "Meetings"
+format: html
+number-sections: false
+section-divs: true
+toc: true
+toc-depth: 5
+---
+
+## Upcoming Meeting
+
+### DO Summers
+
+May 5-7, 2026 South Euclid, OH
+
+#### Hotel Information
+
+-   [Last Day to Book: **Monday, April 06, 2026**]{style="color:red;"}\
+-   Marriott [AC Hotel Cleveland Beachwood](https://www.marriott.com/en-us/hotels/cleac-ac-hotel-cleveland-beachwood/overview/)\
+    300 Park Avenue\
+    Orange Village, OH 44122\
+    Phone: 216-831-1108\
+-   Visit link for [Hotel Reservations](https://app.marriott.com/reslink?id=1762378954034&key=GRP&app=resvlink) \$239/night Single or Double
+
+## Future Meetings
+
+| Year | Date           | Company  | Location       |
+|------|----------------|----------|----------------|
+| 2026 | Sep 29 - Oct 1 | Crest    | MacLean, VA    |
+| 2027 | Feb 9-11       | Kona     | Orange, VA     |
+|      | May 4-6        | Ziker    | South Bend, IN |
+|      | Oct 5-7        | Zengeler | Chicago, IL    |
+| 2028 |                |          |                |
+
+## Past Meetings
+
+### 2025
+
+Under Construction

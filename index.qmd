@@ -2,10 +2,10 @@
 title: "MC12"
 ---
 
-This is a Quarto website.
+## Management Concepts
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This site contains meeting information for upcoming meetings, the future meeting schedule, and links to past meeting notes. It will also have additional resources available as they are identified.
 
-```{r}
-1 + 1
-```
+## Input / Suggestions?
+
+Contact the facilitator Bob McQuaid ([drmcquaid\@gmail.com](drmcquaid@gmail.com))

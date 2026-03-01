@@ -1,21 +1,39 @@
+## Project ------------------------------------------------------------
+
 project:
   type: website
+  output-dir: _site   # Development folder
+#  output-dir: docs   # Production folder
+
+## Website ------------------------------------------------------------
 
 website:
-  title: "MC12"
+  title: "Management Concepts"
+  page-footer:
+    center: "Copyright 2026, Bob McQuaid"
+  page-navigation: true
   navbar:
+    background: "DarkOliveGreen"
+    search: false
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        file: index.qmd
+      - text: "Meetings"
+        file: meetings/1mtgs.qmd
+      - file: about.qmd
+
+## Format ------------------------------------------------------------
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - Flatly
     css: styles.css
     toc: true
+
+## Editor ------------------------------------------------------------
+
+editor: source
 
 
 
