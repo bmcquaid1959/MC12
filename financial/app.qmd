@@ -1,0 +1,7 @@
+---
+title: "Financial Analysis"
+---
+
+The interactive financial application will be available here once the VPS-hosted Shiny app is deployed.
+
+For now, use the current financial book and archive pages.

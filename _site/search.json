@@ -1,45 +1,199 @@
 [
   {
-    "objectID": "meetings/1mtgs.html",
-    "href": "meetings/1mtgs.html",
-    "title": "Meetings",
-    "section": "",
-    "text": "May 5-7, 2026 South Euclid, OH\n\n\n\nLast Day to Book: Monday, April 06, 2026\n\nMarriott AC Hotel Cleveland Beachwood\n300 Park Avenue\nOrange Village, OH 44122\nPhone: 216-831-1108\n\nVisit link for Hotel Reservations $239/night Single or Double"
+    "objectID": "resources/special_presentations.html#logistics",
+    "href": "resources/special_presentations.html#logistics",
+    "title": "Special Presentations",
+    "section": "Logistics",
+    "text": "Logistics"
   },
   {
-    "objectID": "meetings/1mtgs.html#upcoming-meeting",
-    "href": "meetings/1mtgs.html#upcoming-meeting",
-    "title": "Meetings",
-    "section": "",
-    "text": "May 5-7, 2026 South Euclid, OH\n\n\n\nLast Day to Book: Monday, April 06, 2026\n\nMarriott AC Hotel Cleveland Beachwood\n300 Park Avenue\nOrange Village, OH 44122\nPhone: 216-831-1108\n\nVisit link for Hotel Reservations $239/night Single or Double"
+    "objectID": "resources/special_presentations.html#attendees",
+    "href": "resources/special_presentations.html#attendees",
+    "title": "Special Presentations",
+    "section": "Attendees",
+    "text": "Attendees"
   },
   {
-    "objectID": "meetings/1mtgs.html#future-meetings",
-    "href": "meetings/1mtgs.html#future-meetings",
-    "title": "Meetings",
-    "section": "Future Meetings",
-    "text": "Future Meetings\n\n\n\nYear\nDate\nCompany\nLocation\n\n\n\n\n2026\nSep 29 - Oct 1\nCrest\nMacLean, VA\n\n\n2027\nFeb 9-11\nKona\nOrange, VA\n\n\n\nMay 4-6\nZiker\nSouth Bend, IN\n\n\n\nOct 5-7\nZengeler\nChicago, IL\n\n\n2028"
+    "objectID": "resources/special_presentations.html#agenda",
+    "href": "resources/special_presentations.html#agenda",
+    "title": "Special Presentations",
+    "section": "Agenda",
+    "text": "Agenda"
   },
   {
-    "objectID": "meetings/1mtgs.html#past-meetings",
-    "href": "meetings/1mtgs.html#past-meetings",
-    "title": "Meetings",
-    "section": "Past Meetings",
-    "text": "Past Meetings\n\n2025\nUnder Construction"
+    "objectID": "resources/special_presentations.html#day-1-presentations",
+    "href": "resources/special_presentations.html#day-1-presentations",
+    "title": "Special Presentations",
+    "section": "Day 1 Presentations",
+    "text": "Day 1 Presentations"
+  },
+  {
+    "objectID": "resources/special_presentations.html#day-2-tour-and-critique",
+    "href": "resources/special_presentations.html#day-2-tour-and-critique",
+    "title": "Special Presentations",
+    "section": "Day 2 Tour and Critique",
+    "text": "Day 2 Tour and Critique"
+  },
+  {
+    "objectID": "resources/special_presentations.html#executive-session",
+    "href": "resources/special_presentations.html#executive-session",
+    "title": "Special Presentations",
+    "section": "Executive Session",
+    "text": "Executive Session"
+  },
+  {
+    "objectID": "resources/special_presentations.html#day-3-financial-review",
+    "href": "resources/special_presentations.html#day-3-financial-review",
+    "title": "Special Presentations",
+    "section": "Day 3 Financial Review",
+    "text": "Day 3 Financial Review"
+  },
+  {
+    "objectID": "resources/special_presentations.html#downloads",
+    "href": "resources/special_presentations.html#downloads",
+    "title": "Special Presentations",
+    "section": "Downloads",
+    "text": "Downloads"
+  },
+  {
+    "objectID": "resources/special_presentations.html#notes-and-action-items",
+    "href": "resources/special_presentations.html#notes-and-action-items",
+    "title": "Special Presentations",
+    "section": "Notes and Action Items",
+    "text": "Notes and Action Items"
+  },
+  {
+    "objectID": "meetings/2609_Today_BakersfieldCA.html#logistics",
+    "href": "meetings/2609_Today_BakersfieldCA.html#logistics",
+    "title": "February 2026 Meeting - Today - Bakersfield, CA",
+    "section": "Logistics",
+    "text": "Logistics"
+  },
+  {
+    "objectID": "meetings/2609_Today_BakersfieldCA.html#attendees",
+    "href": "meetings/2609_Today_BakersfieldCA.html#attendees",
+    "title": "February 2026 Meeting - Today - Bakersfield, CA",
+    "section": "Attendees",
+    "text": "Attendees"
+  },
+  {
+    "objectID": "meetings/2609_Today_BakersfieldCA.html#agenda",
+    "href": "meetings/2609_Today_BakersfieldCA.html#agenda",
+    "title": "February 2026 Meeting - Today - Bakersfield, CA",
+    "section": "Agenda",
+    "text": "Agenda"
+  },
+  {
+    "objectID": "meetings/2609_Today_BakersfieldCA.html#day-1-presentations",
+    "href": "meetings/2609_Today_BakersfieldCA.html#day-1-presentations",
+    "title": "February 2026 Meeting - Today - Bakersfield, CA",
+    "section": "Day 1 Presentations",
+    "text": "Day 1 Presentations"
+  },
+  {
+    "objectID": "meetings/2609_Today_BakersfieldCA.html#day-2-tour-and-critique",
+    "href": "meetings/2609_Today_BakersfieldCA.html#day-2-tour-and-critique",
+    "title": "February 2026 Meeting - Today - Bakersfield, CA",
+    "section": "Day 2 Tour and Critique",
+    "text": "Day 2 Tour and Critique"
+  },
+  {
+    "objectID": "meetings/2609_Today_BakersfieldCA.html#executive-session",
+    "href": "meetings/2609_Today_BakersfieldCA.html#executive-session",
+    "title": "February 2026 Meeting - Today - Bakersfield, CA",
+    "section": "Executive Session",
+    "text": "Executive Session"
+  },
+  {
+    "objectID": "meetings/2609_Today_BakersfieldCA.html#day-3-financial-review",
+    "href": "meetings/2609_Today_BakersfieldCA.html#day-3-financial-review",
+    "title": "February 2026 Meeting - Today - Bakersfield, CA",
+    "section": "Day 3 Financial Review",
+    "text": "Day 3 Financial Review"
+  },
+  {
+    "objectID": "meetings/2609_Today_BakersfieldCA.html#downloads",
+    "href": "meetings/2609_Today_BakersfieldCA.html#downloads",
+    "title": "February 2026 Meeting - Today - Bakersfield, CA",
+    "section": "Downloads",
+    "text": "Downloads"
+  },
+  {
+    "objectID": "meetings/2609_Today_BakersfieldCA.html#notes-and-action-items",
+    "href": "meetings/2609_Today_BakersfieldCA.html#notes-and-action-items",
+    "title": "February 2026 Meeting - Today - Bakersfield, CA",
+    "section": "Notes and Action Items",
+    "text": "Notes and Action Items"
+  },
+  {
+    "objectID": "meetings/2602_Crest_TysonsVA.html#logistics",
+    "href": "meetings/2602_Crest_TysonsVA.html#logistics",
+    "title": "September 2026 Meeting - Crest - Tysons, VA",
+    "section": "Logistics",
+    "text": "Logistics"
+  },
+  {
+    "objectID": "meetings/2602_Crest_TysonsVA.html#attendees",
+    "href": "meetings/2602_Crest_TysonsVA.html#attendees",
+    "title": "September 2026 Meeting - Crest - Tysons, VA",
+    "section": "Attendees",
+    "text": "Attendees"
+  },
+  {
+    "objectID": "meetings/2602_Crest_TysonsVA.html#agenda",
+    "href": "meetings/2602_Crest_TysonsVA.html#agenda",
+    "title": "September 2026 Meeting - Crest - Tysons, VA",
+    "section": "Agenda",
+    "text": "Agenda"
+  },
+  {
+    "objectID": "meetings/2602_Crest_TysonsVA.html#day-1-presentations",
+    "href": "meetings/2602_Crest_TysonsVA.html#day-1-presentations",
+    "title": "September 2026 Meeting - Crest - Tysons, VA",
+    "section": "Day 1 Presentations",
+    "text": "Day 1 Presentations"
+  },
+  {
+    "objectID": "meetings/2602_Crest_TysonsVA.html#day-2-tour-and-critique",
+    "href": "meetings/2602_Crest_TysonsVA.html#day-2-tour-and-critique",
+    "title": "September 2026 Meeting - Crest - Tysons, VA",
+    "section": "Day 2 Tour and Critique",
+    "text": "Day 2 Tour and Critique"
+  },
+  {
+    "objectID": "meetings/2602_Crest_TysonsVA.html#executive-session",
+    "href": "meetings/2602_Crest_TysonsVA.html#executive-session",
+    "title": "September 2026 Meeting - Crest - Tysons, VA",
+    "section": "Executive Session",
+    "text": "Executive Session"
+  },
+  {
+    "objectID": "meetings/2602_Crest_TysonsVA.html#day-3-financial-review",
+    "href": "meetings/2602_Crest_TysonsVA.html#day-3-financial-review",
+    "title": "September 2026 Meeting - Crest - Tysons, VA",
+    "section": "Day 3 Financial Review",
+    "text": "Day 3 Financial Review"
+  },
+  {
+    "objectID": "meetings/2602_Crest_TysonsVA.html#downloads",
+    "href": "meetings/2602_Crest_TysonsVA.html#downloads",
+    "title": "September 2026 Meeting - Crest - Tysons, VA",
+    "section": "Downloads",
+    "text": "Downloads"
+  },
+  {
+    "objectID": "meetings/2602_Crest_TysonsVA.html#notes-and-action-items",
+    "href": "meetings/2602_Crest_TysonsVA.html#notes-and-action-items",
+    "title": "September 2026 Meeting - Crest - Tysons, VA",
+    "section": "Notes and Action Items",
+    "text": "Notes and Action Items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Bobby Patel, Chair (2027)\nTom Zengeler, Vice-Chair (2029)\nNicole Fazio, Secretary (2031)"
-  },
-  {
-    "objectID": "about.html#officers",
-    "href": "about.html#officers",
-    "title": "About",
-    "section": "",
-    "text": "Bobby Patel, Chair (2027)\nTom Zengeler, Vice-Chair (2029)\nNicole Fazio, Secretary (2031)"
+    "text": "&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD ## Officers"
   },
   {
     "objectID": "about.html#executive-members",
@@ -49,18 +203,39 @@
     "text": "Executive Members\n\n\n\n\nShawn McCann BES\nNorm Ravagnani BES\nJeff Chapman CLA\nSteve Arnold CLA\nDavid Slan CRE\nJack Culotta CRE\nChrista Hagearty DEP\nDon Fawcett DEP\nCarlyn Parker DEP\nSteve Fazio FAZ\nNicole Fazio FAZ\n\n\n\n\nSteve Klinke KLI\nRich Klinke KLI\nBobby Patel KON\nDrew Goldberg DOS\nBrett Goldberg DOS\nJeff Newman, Jr TOD\nMatthew Newman TOD\nTim West TOD\nTom Zengeler ZEN\nJohn Mertes ZIK\nJami Olesen ZIK"
   },
   {
+    "objectID": "about.html#facilitator",
+    "href": "about.html#facilitator",
+    "title": "About",
+    "section": "Facilitator",
+    "text": "Facilitator\n\nBob McQuaid\nEdited and committed/pushed from laptop to github by Bob &gt;&gt;&gt;&gt;&gt;&gt;&gt; eb1e7c990fa9c91aff1cb056fdf27bdf1d2d28e2"
+  },
+  {
+    "objectID": "financial/app.html",
+    "href": "financial/app.html",
+    "title": "Financial Analysis",
+    "section": "",
+    "text": "The interactive financial application will be available here once the VPS-hosted Shiny app is deployed.\nFor now, use the current financial book and archive pages."
+  },
+  {
+    "objectID": "governance/officers.html",
+    "href": "governance/officers.html",
+    "title": "Officers",
+    "section": "",
+    "text": "Bobby Patel, Chair (2027)\nTom Zengeler, Vice-Chair (2029)\nNicole Fazio, Secretary (2031)\n\nNext Election May 2027"
+  },
+  {
+    "objectID": "governance/officers.html#officers",
+    "href": "governance/officers.html#officers",
+    "title": "Officers",
+    "section": "",
+    "text": "Bobby Patel, Chair (2027)\nTom Zengeler, Vice-Chair (2029)\nNicole Fazio, Secretary (2031)\n\nNext Election May 2027"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "MC12",
     "section": "",
     "text": "This site contains meeting information for upcoming meetings, the future meeting schedule, and links to past meeting notes. It will also have additional resources available as they are identified."
-  },
-  {
-    "objectID": "about.html#facilitator",
-    "href": "about.html#facilitator",
-    "title": "About",
-    "section": "Facilitator",
-    "text": "Facilitator\n\nBob McQuaid"
   },
   {
     "objectID": "index.html#management-concepts",
@@ -74,6 +249,286 @@
     "href": "index.html#input-suggestions",
     "title": "MC12",
     "section": "Input / Suggestions?",
-    "text": "Input / Suggestions?\nContact Bob McQuaid (drmcquaid@gmail.com)"
+    "text": "Input / Suggestions?\nContact the facilitator Bob McQuaid (drmcquaid@gmail.com)"
+  },
+  {
+    "objectID": "meetings/2605_Summers_ClevelandOH.html#logistics",
+    "href": "meetings/2605_Summers_ClevelandOH.html#logistics",
+    "title": "May 2026 Meeting - DO Summers - Cleveland, OH",
+    "section": "Logistics",
+    "text": "Logistics"
+  },
+  {
+    "objectID": "meetings/2605_Summers_ClevelandOH.html#attendees",
+    "href": "meetings/2605_Summers_ClevelandOH.html#attendees",
+    "title": "May 2026 Meeting - DO Summers - Cleveland, OH",
+    "section": "Attendees",
+    "text": "Attendees"
+  },
+  {
+    "objectID": "meetings/2605_Summers_ClevelandOH.html#agenda",
+    "href": "meetings/2605_Summers_ClevelandOH.html#agenda",
+    "title": "May 2026 Meeting - DO Summers - Cleveland, OH",
+    "section": "Agenda",
+    "text": "Agenda"
+  },
+  {
+    "objectID": "meetings/2605_Summers_ClevelandOH.html#day-1-presentations",
+    "href": "meetings/2605_Summers_ClevelandOH.html#day-1-presentations",
+    "title": "May 2026 Meeting - DO Summers - Cleveland, OH",
+    "section": "Day 1 Presentations",
+    "text": "Day 1 Presentations"
+  },
+  {
+    "objectID": "meetings/2605_Summers_ClevelandOH.html#day-2-tour-and-critique",
+    "href": "meetings/2605_Summers_ClevelandOH.html#day-2-tour-and-critique",
+    "title": "May 2026 Meeting - DO Summers - Cleveland, OH",
+    "section": "Day 2 Tour and Critique",
+    "text": "Day 2 Tour and Critique"
+  },
+  {
+    "objectID": "meetings/2605_Summers_ClevelandOH.html#executive-session",
+    "href": "meetings/2605_Summers_ClevelandOH.html#executive-session",
+    "title": "May 2026 Meeting - DO Summers - Cleveland, OH",
+    "section": "Executive Session",
+    "text": "Executive Session"
+  },
+  {
+    "objectID": "meetings/2605_Summers_ClevelandOH.html#day-3-financial-review",
+    "href": "meetings/2605_Summers_ClevelandOH.html#day-3-financial-review",
+    "title": "May 2026 Meeting - DO Summers - Cleveland, OH",
+    "section": "Day 3 Financial Review",
+    "text": "Day 3 Financial Review"
+  },
+  {
+    "objectID": "meetings/2605_Summers_ClevelandOH.html#downloads",
+    "href": "meetings/2605_Summers_ClevelandOH.html#downloads",
+    "title": "May 2026 Meeting - DO Summers - Cleveland, OH",
+    "section": "Downloads",
+    "text": "Downloads"
+  },
+  {
+    "objectID": "meetings/2605_Summers_ClevelandOH.html#notes-and-action-items",
+    "href": "meetings/2605_Summers_ClevelandOH.html#notes-and-action-items",
+    "title": "May 2026 Meeting - DO Summers - Cleveland, OH",
+    "section": "Notes and Action Items",
+    "text": "Notes and Action Items"
+  },
+  {
+    "objectID": "meetings/meeting_template.html#logistics",
+    "href": "meetings/meeting_template.html#logistics",
+    "title": "month year Meeting - company - location",
+    "section": "Logistics",
+    "text": "Logistics"
+  },
+  {
+    "objectID": "meetings/meeting_template.html#attendees",
+    "href": "meetings/meeting_template.html#attendees",
+    "title": "month year Meeting - company - location",
+    "section": "Attendees",
+    "text": "Attendees"
+  },
+  {
+    "objectID": "meetings/meeting_template.html#agenda",
+    "href": "meetings/meeting_template.html#agenda",
+    "title": "month year Meeting - company - location",
+    "section": "Agenda",
+    "text": "Agenda"
+  },
+  {
+    "objectID": "meetings/meeting_template.html#day-1-presentations",
+    "href": "meetings/meeting_template.html#day-1-presentations",
+    "title": "month year Meeting - company - location",
+    "section": "Day 1 Presentations",
+    "text": "Day 1 Presentations"
+  },
+  {
+    "objectID": "meetings/meeting_template.html#day-2-tour-and-critique",
+    "href": "meetings/meeting_template.html#day-2-tour-and-critique",
+    "title": "month year Meeting - company - location",
+    "section": "Day 2 Tour and Critique",
+    "text": "Day 2 Tour and Critique"
+  },
+  {
+    "objectID": "meetings/meeting_template.html#executive-session",
+    "href": "meetings/meeting_template.html#executive-session",
+    "title": "month year Meeting - company - location",
+    "section": "Executive Session",
+    "text": "Executive Session"
+  },
+  {
+    "objectID": "meetings/meeting_template.html#day-3-financial-review",
+    "href": "meetings/meeting_template.html#day-3-financial-review",
+    "title": "month year Meeting - company - location",
+    "section": "Day 3 Financial Review",
+    "text": "Day 3 Financial Review"
+  },
+  {
+    "objectID": "meetings/meeting_template.html#downloads",
+    "href": "meetings/meeting_template.html#downloads",
+    "title": "month year Meeting - company - location",
+    "section": "Downloads",
+    "text": "Downloads"
+  },
+  {
+    "objectID": "meetings/meeting_template.html#notes-and-action-items",
+    "href": "meetings/meeting_template.html#notes-and-action-items",
+    "title": "month year Meeting - company - location",
+    "section": "Notes and Action Items",
+    "text": "Notes and Action Items"
+  },
+  {
+    "objectID": "members/directory.html",
+    "href": "members/directory.html",
+    "title": "Directory",
+    "section": "",
+    "text": "Bobby Patel, Chair (2027)\nTom Zengeler, Vice-Chair (2029)\nNicole Fazio, Secretary (2031)"
+  },
+  {
+    "objectID": "members/directory.html#officers",
+    "href": "members/directory.html#officers",
+    "title": "Directory",
+    "section": "",
+    "text": "Bobby Patel, Chair (2027)\nTom Zengeler, Vice-Chair (2029)\nNicole Fazio, Secretary (2031)"
+  },
+  {
+    "objectID": "members/directory.html#executive-members",
+    "href": "members/directory.html#executive-members",
+    "title": "Directory",
+    "section": "Executive Members",
+    "text": "Executive Members\n\n\n\n\nShawn McCann BES\nNorm Ravagnani BES\nJeff Chapman CLA\nSteve Arnold CLA\nDavid Slan CRE\nJack Culotta CRE\nChrista Hagearty DEP\nDon Fawcett DEP\nCarlyn Parker DEP\nSteve Fazio FAZ\nNicole Fazio FAZ\n\n\n\n\nSteve Klinke KLI\nRich Klinke KLI\nBobby Patel KON\nDrew Goldberg DOS\nBrett Goldberg DOS\nJeff Newman, Jr TOD\nMatthew Newman TOD\nTim West TOD\nTom Zengeler ZEN\nJohn Mertes ZIK\nJami Olesen ZIK"
+  },
+  {
+    "objectID": "members/directory.html#facilitator",
+    "href": "members/directory.html#facilitator",
+    "title": "Directory",
+    "section": "Facilitator",
+    "text": "Facilitator\n\nBob McQuaid"
+  },
+  {
+    "objectID": "resources/reference_materials.html#logistics",
+    "href": "resources/reference_materials.html#logistics",
+    "title": "Reference Materials",
+    "section": "Logistics",
+    "text": "Logistics"
+  },
+  {
+    "objectID": "resources/reference_materials.html#attendees",
+    "href": "resources/reference_materials.html#attendees",
+    "title": "Reference Materials",
+    "section": "Attendees",
+    "text": "Attendees"
+  },
+  {
+    "objectID": "resources/reference_materials.html#agenda",
+    "href": "resources/reference_materials.html#agenda",
+    "title": "Reference Materials",
+    "section": "Agenda",
+    "text": "Agenda"
+  },
+  {
+    "objectID": "resources/reference_materials.html#day-1-presentations",
+    "href": "resources/reference_materials.html#day-1-presentations",
+    "title": "Reference Materials",
+    "section": "Day 1 Presentations",
+    "text": "Day 1 Presentations"
+  },
+  {
+    "objectID": "resources/reference_materials.html#day-2-tour-and-critique",
+    "href": "resources/reference_materials.html#day-2-tour-and-critique",
+    "title": "Reference Materials",
+    "section": "Day 2 Tour and Critique",
+    "text": "Day 2 Tour and Critique"
+  },
+  {
+    "objectID": "resources/reference_materials.html#executive-session",
+    "href": "resources/reference_materials.html#executive-session",
+    "title": "Reference Materials",
+    "section": "Executive Session",
+    "text": "Executive Session"
+  },
+  {
+    "objectID": "resources/reference_materials.html#day-3-financial-review",
+    "href": "resources/reference_materials.html#day-3-financial-review",
+    "title": "Reference Materials",
+    "section": "Day 3 Financial Review",
+    "text": "Day 3 Financial Review"
+  },
+  {
+    "objectID": "resources/reference_materials.html#downloads",
+    "href": "resources/reference_materials.html#downloads",
+    "title": "Reference Materials",
+    "section": "Downloads",
+    "text": "Downloads"
+  },
+  {
+    "objectID": "resources/reference_materials.html#notes-and-action-items",
+    "href": "resources/reference_materials.html#notes-and-action-items",
+    "title": "Reference Materials",
+    "section": "Notes and Action Items",
+    "text": "Notes and Action Items"
+  },
+  {
+    "objectID": "resources/templates.html#logistics",
+    "href": "resources/templates.html#logistics",
+    "title": "Templates",
+    "section": "Logistics",
+    "text": "Logistics"
+  },
+  {
+    "objectID": "resources/templates.html#attendees",
+    "href": "resources/templates.html#attendees",
+    "title": "Templates",
+    "section": "Attendees",
+    "text": "Attendees"
+  },
+  {
+    "objectID": "resources/templates.html#agenda",
+    "href": "resources/templates.html#agenda",
+    "title": "Templates",
+    "section": "Agenda",
+    "text": "Agenda"
+  },
+  {
+    "objectID": "resources/templates.html#day-1-presentations",
+    "href": "resources/templates.html#day-1-presentations",
+    "title": "Templates",
+    "section": "Day 1 Presentations",
+    "text": "Day 1 Presentations"
+  },
+  {
+    "objectID": "resources/templates.html#day-2-tour-and-critique",
+    "href": "resources/templates.html#day-2-tour-and-critique",
+    "title": "Templates",
+    "section": "Day 2 Tour and Critique",
+    "text": "Day 2 Tour and Critique"
+  },
+  {
+    "objectID": "resources/templates.html#executive-session",
+    "href": "resources/templates.html#executive-session",
+    "title": "Templates",
+    "section": "Executive Session",
+    "text": "Executive Session"
+  },
+  {
+    "objectID": "resources/templates.html#day-3-financial-review",
+    "href": "resources/templates.html#day-3-financial-review",
+    "title": "Templates",
+    "section": "Day 3 Financial Review",
+    "text": "Day 3 Financial Review"
+  },
+  {
+    "objectID": "resources/templates.html#downloads",
+    "href": "resources/templates.html#downloads",
+    "title": "Templates",
+    "section": "Downloads",
+    "text": "Downloads"
+  },
+  {
+    "objectID": "resources/templates.html#notes-and-action-items",
+    "href": "resources/templates.html#notes-and-action-items",
+    "title": "Templates",
+    "section": "Notes and Action Items",
+    "text": "Notes and Action Items"
   }
 ]

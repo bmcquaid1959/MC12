@@ -13,27 +13,68 @@ website:
     center: "Copyright 2026, Bob McQuaid"
   page-navigation: true
   navbar:
-    background: "DarkOliveGreen"
     search: false
     left:
       - text: "Home"
-        file: index.qmd
+        href: index.qmd
       - text: "Meetings"
-        file: meetings/1mtgs.qmd
-      - file: about.qmd
+        menu:
+          - text: "Meeting Home"
+            href: meetings/index.qmd
+          - text: "Upcoming Meeting"
+            href: meetings/upcoming.qmd
+          - text: "Meeting Archive"
+            href: meetings/archive.qmd
+      - text: "Financial"
+
+        menu:
+          - text: "Financial Home"
+            href: financial/index.qmd
+          - text: "Financial App"
+            href: financial/app.qmd
+          - text: "Latest Book"
+            href: financial/current_book.qmd
+          - text: "Book Archive"
+            href: financial/archive_books.qmd
+      - text: "Governance"
+        menu:
+          - text: "Governance Home"
+            href: governance/index.qmd
+          - text: "Charter"
+            href: governance/charter.qmd
+          - text: "Operating Manual"
+            href: governance/operating_manual.qmd
+          - text: "Officers"
+            href: governance/officers.qmd
+      - text: "Members"
+        menu:
+          - text: "Members Home"
+            href: members/index.qmd
+          - text: "Directory"
+            href: members/directory.qmd
+      - text: "Resources"
+        menu:
+          - text: "Resources Home"
+            href: resources/index.qmd
+          - text: "Templates"
+            href: resources/templates.qmd
+          - text: "Special Presentations"
+            href: resources/special_presentations.qmd
+          - text: "Reference Materials"
+            href: resources/reference_materials.qmd
+
+#   page-footer:
+#    left: "Management Concepts Member Portal"
+#    right: "Private member site"
 
 ## Format ------------------------------------------------------------
 
 format:
   html:
-    theme:
-      - Flatly
-    css: styles.css
+    theme: cosmo
+    css: styles/styles.css
     toc: true
+    toc-depth: 3
 
-## Editor ------------------------------------------------------------
-
-editor: source
-
-
-
+execute:
+  freeze: false
