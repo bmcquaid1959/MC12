@@ -6,4 +6,7 @@ This repository is setup on desktop and laptop in the users/me/R_WorkingDirector
 
 **The local MC12 directory *cannot* be in a synced folder (no google drive, dropbox, etc.)** because Quarto doesn't do well with syncing files.
 
-When working on local copy, set yml header to `output-dir: _site`. That is where the previews will be sourced from. When ready to put it into production, change to `output-dir: docs` and render before pushing to github.
+When working on local copy, set yml header to `output-dir: _site`. That is where the previews will be sourced from. When ready to put it into production
+
+After settng up the VPS system, upload the _site file.s
+

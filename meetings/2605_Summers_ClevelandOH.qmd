@@ -1,23 +1,312 @@
 ---
-title: "May 2026 Meeting - DO Summers - Cleveland, OH"
+title: "May 2026 Meeting - Summers Cleaners - Cleveland, OH"
+format: 
+  html:
+    page-layout: full
+toc: true
 ---
 
 ## Overview
 
-## Logistics
+**Host Company:** DO Summers Cleaners  
+**Location:** South Euclid / Cleveland, Ohio  
+**Meeting Dates:** May 5-7, 2026  
+**Facilitator:** Bob McQuaid  
+**Host Contacts:** Brett Goldberg, Drew Goldberg, Jeff Sabroff
+
+This page summarizes the May 2026 Management Concepts meeting hosted by Summers Cleaners in the Cleveland area.
+
+---
+
+## Meeting Prep Deadlines
+
+- **Mon, April 20:** Submit *What’s New* PDF template to the MC Google group
+- **Tue, April 28:** Submit up to 5 observations about others’ *What’s New* to Bob
+- **Mon, May 4:** Submit presentation content (PPT) to Bob
+
+---
+
+## Host and Facilitator Contacts
+
+### Host
+- **Brett Goldberg** — 216.407.2223
+- **Drew Goldberg** — 216.407.2241
+- **Jeff Sabroff** — 216.408.6446
+
+### Facilitator
+- **Bob McQuaid** — 805.368.4572
+
+---
+
+## Hotel and Logistics
+
+### Hotel
+**Marriott AC Hotel Cleveland Beachwood**  
+300 Park Avenue  
+Orange Village, OH 44122  
+216.831.1108
+
+- **Rate:** $239/night
+- **Reservations:** Hotel Reservations Link
+- **Parking:** Complimentary parking across Wall Street from hotel
+- **Garage:** Pinecrest Parking Garage
+
+### Meeting Room
+- **Room:** Ballroom
+- **WiFi:** `AC_Meeting`
+- **Password:** `Meeting1`
+
+### Networking Dinner
+**Cru Uncorked**  
+34300 Chagrin Blvd  
+Moreland Hills, OH 44022  
+440.903.1171
+
+---
 
 ## Attendees
 
+| Company | Attendee | Cell |
+|---|---|---|
+| Best | Shawn McCann | 860.729.5304 |
+| Best | Norm Ravagnani | 860.729.2495 |
+| Classic | Jeff Chapman | 317.557.3926 |
+| Classic | Steve Arnold | 317.710.0530 |
+| Crest | David Slan | 703.388.6522 |
+| Crest | Jack Culotta | 703.906.3540 |
+| Crest | Jason Yerby | 703.217.0866 |
+| Dependable | Christa Hagearty | 617.413.7440 |
+| Fazio | Nicole Fazio | 818.822.7500 |
+| Fazio | Susan O'Brien | 818.402.5688 |
+| Klinke | Steve Klinke | 608.209.8815 |
+| Klinke | Rich Klinke | 608.209.0880 |
+| Kona | Bobby Patel | 714.393.1440 |
+| Summers | Brett Goldberg | 216.407.2223 |
+| Summers | Drew Goldberg | 216.407.2241 |
+| Summers | Jeff Sabroff | 216.408.6446 |
+| Today | Jeff Newman, Jr | 661.332.3831 |
+| Today | Matthew Newman | 805.704.8854 |
+| Today | Tim West | 661.301.4695 |
+| Zengeler | Tom Zengeler | 847.421.3937 |
+| Zengeler | Courtenay Bailey (dinner) | 773.892.9204 |
+| Ziker | John Mertes | 574.274.0523 |
+| Ziker | Jami Olesen | 574.292.1614 |
+| Facilitator | Bob McQuaid | 805.368.4572 |
+
+---
+
 ## Agenda
 
-## Day 1 Presentations
+### Tuesday, May 5
 
-## Day 2 Tour and Critique
+| Time | Activity | Location | Notes |
+|---|---|---|---|
+| 4:00 PM | Today: Report from February 2026 Visit | Ballroom | |
+| 4:20 PM | What’s New Presentations I | Ballroom | AV provided, snacks |
+| 6:30 PM | Dinner | Ballroom | |
+| 7:30 PM | What’s New Presentations II | Ballroom | AV provided, snacks |
+| 9:00 PM | Adjourn |  | |
 
-## Executive Session
+### Wednesday, May 6
 
-## Day 3 Financial Review
+| Time | Activity | Location | Notes |
+|---|---|---|---|
+| 6:45 AM | Breakfast available | Ballroom | |
+| 7:30 AM | Summers Cleaners Presentation | Ballroom | |
+| 8:00 AM | Tour departs | Multiple sites | 32-person executive bus, A-1 Limo |
+| 8:00 AM | Woodmere | 28200 Chagrin Blvd, Beachwood | |
+| 8:00 AM | Wheely Clean Car Wash | 27370 Chagrin Blvd, Beachwood | |
+| 8:00 AM | Mayfield Village | 6447 Wilson Mills Rd, Cleveland | |
+| 8:00 AM | South Euclid / Office | 14409 Cedar Rd, South Euclid | |
+| 8:00 AM | Solon | 6459 Som Center Rd, Solon | |
+| 12:00 PM | Lunch | Ballroom | |
+| 12:30 PM | Group Debrief | Ballroom | Flipcharts / Easels, AV provided, snacks |
+| 1:15 PM | Critique | Ballroom | |
+| 2:00 PM | Break |  | |
+| 2:15 PM | Philosophical | Ballroom | |
+| 4:00 PM | Executive Session |  | Bob notes |
+| 5:30 PM | Meet in Lobby: Cocktails & Dinner | Cru Uncorked | |
+
+### Thursday, May 7
+
+| Time | Activity | Location | Notes |
+|---|---|---|---|
+| 6:45 AM | Breakfast available | Ballroom | |
+| 8:00 AM | Cleaner Marketing | Ballroom | Company setup, service lines, results, future marketing development |
+| 9:15 AM | Break |  | |
+| 10:30 AM | New Analysis System / Meeting Lessons Learned | Ballroom | Bob McQuaid |
+| 11:00 AM | Complete Feedback |  | Paper form, Google Form, or QR code |
+
+---
+
+## Cleaner Marketing Session Notes
+
+The packet lists the Thursday morning Cleaner Marketing session topics as:
+
+- How they set up the company as a whole
+- What type of service lines they offer and the results they drive
+- Future marketing development items, including route builder application discussion
+
+---
+
+## Meals and Breaks
+
+### Breaks
+- **Tuesday:** Trail mix bar, whole fruit, assorted Greek yogurts
+- **Wednesday:** Seasonal fruit, Nutella and peanut butter, assorted cookies
+- **Thursday:** Sweet and savory breakfast tarts, whole fruit, yogurt parfaits
+
+### Tuesday Dinner
+- Herb rubbed chicken with tomato and olives
+- Penne pasta
+- Traditional meatballs with creamy pesto, roasted tomatoes, parmesan, basil
+- Tomato and prosciutto toast
+- Avocado, feta and basil toast
+- Apple and manchego cheese salad
+- Greek salad with avocado, cucumber, tomato, onion, feta
+- Crispy sea salt potatoes with garlic aioli
+- Assorted cookies
+- Still and sparkling water
+
+### Breakfasts
+- Coffee / teas
+- Assorted juices
+- Scrambled eggs
+- Bacon or sausage
+- Breakfast potatoes
+- Fruit salad
+- Whole fruits
+- Assorted pastries
+
+### Wednesday Lunch
+- Caesar salad
+- Turkey sandwich with bacon, cheddar, lettuce, tomato on Tuscan bread
+- Ham sandwich with aged Swiss, lettuce, tomato on ciabatta
+- Pickles, mayonnaise, mustard
+- Assorted chips
+- Chef’s choice dessert
+- Still and sparkling water
+
+---
+
+## Feedback
+
+Feedback could be completed in one of three ways:
+
+1. Detach the printed page and fill out both sides
+2. Visit the Google Form link
+3. Scan the QR code in the packet
+
+### Feedback Categories
+
+#### Current Meeting — Facilities
+- Hotel lodging
+- Hotel amenities
+- Meeting facilities
+- Meeting food & beverage
+
+#### Current Meeting — Agenda Activities
+- What’s New session
+- Offsite tour
+- Critique / Philosophical session
+- Networking dinner
+- Analysis / Presentation session
+
+#### Current Meeting — Attendees
+- Moderator
+- Executive Committee
+- Group engagement
+
+#### Year-Round Experience
+- Moderator
+- Executive Committee
+- Group engagement
+
+### Topics of Interest
+- EDM
+
+### Meeting Topics
+
+#### Business Development — Branding and Marketing
+- Branding
+- Advertising
+- Website
+- Mailers
+- Email
+- Routes / Trucks
+- Store front
+- Counter employees
+- Customer satisfaction / loyalty / retention
+
+#### Operations
+- Product quality
+- Quality controls
+- Plant layout / design
+- Production flow
+- Equipment maintenance
+- Labor cost
+- Technology
+- Assembly
+- Point of sale (POS)
+- Routes / Trucks
+
+#### Enterprise Management
+- Adequately staffed
+- Image & approachable
+- Employee turnover
+- Effective meeting structure
+- Bonus / incentive programs
+- Top goals / accomplishments
+- Finance
+- Competitive differentiation
+- Communication
+- Ownership level feedback
+
+#### Philosophical
+- Management structure
+- On-boarding, training & development
+- Recruiting & hiring process
+- In-store reporting controls
+- Compensation, benefits & incentives
+- Company culture
+- Strategy
+- Succession
+- Key metrics
+- Customer commitment / loyalty
+- Key executives
+
+---
+
+## Upcoming Meetings
+
+- **Sep 29-Oct 1, 2026** — Crest — McLean, VA
+- **Feb 9-11, 2027** — Kona — Orange, CA
+- **May 4-6, 2027** — Ziker — Bend, IN
+- **Oct 5-7, 2027** — Zengeler — Chicago, IL
+- **Feb 8-10, 2028** — TBD
+- **May 9-11, 2028** — TBD
+- **Oct 10-12, 2028** — TBD
+- **Best, Fazio** — future hosts noted in packet
+
+---
+
+## Recent Meetings
+
+- Oct 2024 — Dependable — Boston, MA
+- Feb 2025 — Metalprogetti / Burke — Denver, CO
+- May 2025 — Classic — Indianapolis, IN
+- Oct 2025 — Klinke — Madison, WI
+- Feb 2026 — Today — Bakersfield, CA
+
+---
 
 ## Downloads
 
-## Notes and Action Items
+Add links here as files are organized on the site:
+
+- [Meeting Packet PDF](../docs/meetings/2605_Summers_ClevelandOH/packet/Agenda2605Cleveland.pdf)
+- [Agenda PDF](../docs/meetings/2605_Summers_ClevelandOH/agenda/agenda.pdf)
+- [Attendee List](../docs/meetings/2605_Summers_ClevelandOH/attendees/attendee-list.pdf)
+- [Tour Package](../docs/meetings/2605_Summers_ClevelandOH/tour/host-tour-package.pdf)
+- [Financial Book](../docs/meetings/2605_Summers_ClevelandOH/financial/financial-book.pdf)
+- [Feedback Form](../docs/meetings/2605_Summers_ClevelandOH/feedback/feedback-form.pdf)
