@@ -2,8 +2,7 @@
 
 project:
   type: website
-  output-dir: _site   # Development folder
-#  output-dir: docs   # Production folder
+  output-dir: _site   # Development and Production folder
 
 ## Website ------------------------------------------------------------
 
