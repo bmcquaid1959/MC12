@@ -2,11 +2,13 @@
 title: "Governance"
 ---
 
+[Editing from existing to proposed](Protocol_Revision_Steps.qmd)
+
 This section includes:
 
-1.  the existing [Protocol](../docs/MC_Protocol_2007_02_20.pdf) approved on February 20, 2007.
+1.  the [Existing Protocol](../docs/MC_Protocol_2007_02_20.pdf) approved on February 20, 2007.
 
-2.  a *proposed* draft [Charter](charter.qmd) and [Operating Manual](operating_manual.qmd) to replace the existing governance protocol.
+2.  *Proposed* drafts of a [Charter](charter.qmd) and [Operating Manual](operating_manual.qmd) to replace the existing protocol.
 
 3.  The current slate of [officers](officers.qmd).
 

@@ -1,0 +1,160 @@
+---
+title: "Protocol Redraft Process"
+---
+
+## From Protocol 2007 to a Charter and Operating Manual
+
+The original 2007 Protocol served Management Concepts well for many years. It captured the group’s core values and operating assumptions, including confidentiality, candid peer review, regular meetings, member voting, shared financial reporting through “The Book,” and a rotating leadership structure. It also combined several different kinds of material in one document: governance rules, meeting procedures, attendance rules, fee arrangements, current officer names, and the moderator contract. The proposed Charter and Operating Manual reorganize that material into a structure that is easier to read, easier to maintain, and better aligned with how the group operates today.
+
+Original [Existing Protocol](../docs/MC_Protocol_2007_02_20.pdf) (pdf)
+
+Proposed [Charter](charter.qmd) and [Operating Manual](operating_manual.qmd)
+
+## Why this change was made
+
+<details>
+
+<summary>View section</summary>
+
+The change was made to separate long-term governance rules from day-to-day operating practices. The 2007 Protocol placed both in one document, along with time-sensitive items such as current officer names, cost schedules, and the moderator contract. The proposed Charter now holds the core governance framework, while the Operating Manual holds the practical procedures for meetings, attendance, “The Book,” and administration. This should make the documents easier to use and easier to update over time.
+
+</details>
+
+## What was preserved
+
+<details>
+
+<summary>View section</summary>
+
+The rewrite was intended to preserve the core identity of Management Concepts rather than replace it. The following central ideas from the 2007 Protocol were carried forward:
+
+- MC remains a confidential peer group of independently owned companies whose purpose is to share knowledge for the benefit of members.
+- The Executive Committee remains the core governance structure, consisting of Chair, Vice Chair, and Secretary.
+- Confidentiality remains one of the group’s defining principles.
+- Membership remains selective and subject to structured review and unanimous approval.
+- Meetings, critiques, and “The Book” remain central to how MC operates.
+
+In short, the values and operating logic of the 2007 Protocol were preserved, even when the wording or location changed.
+
+</details>
+
+## What was reorganized
+
+<details>
+
+<summary>View section</summary>
+
+One of the main goals of the rewrite was to move material into the document where it most naturally belongs.
+
+**The Charter now focuses on:**
+
+- purpose and guiding principles
+- membership
+- admission and termination
+- officer roles
+- voting and quorum
+- the moderator’s governance role
+- executive session
+- confidentiality
+- records and amendments
+
+**The Operating Manual now focuses on:**
+
+- meeting types and annual schedule
+- critique meeting format
+- host responsibilities
+- What’s New reports
+- Book preparation and distribution
+- data access and security
+- attendance categories
+- executive session procedures
+- fees and expense allocation
+- prospect attendance procedures
+
+This reorganization was meant to make the documents easier to navigate, not to change the culture of the group.
+
+</details>
+
+## What was clarified or modernized
+
+<details>
+
+<summary>View section</summary>
+
+Several parts of the 2007 Protocol were kept in substance but rewritten for clarity and current use.
+
+- **Voting and quorum:** the proposed Charter organizes voting rules more clearly so it is easier to tell what threshold applies to which decision.
+- **Moderator role:** the moderator remains a non-voting facilitator, but the Executive Committee is now explicitly allowed to excuse the moderator or any attendee from all or part of Executive Session when appropriate.
+- **Attendance categories:** the Operating Manual defines voting representatives, approved principals, approved senior executives, and host-only employees more clearly than the old Protocol.
+- **Attendance expectations:** the old automatic trigger for a membership vote after missed meetings was softened into an Executive Committee review process that can recommend warning, probation, or further action.
+- **Data handling:** the Operating Manual adds more explicit language on approved access, internal handling, and removal of access when a member leaves.
+
+These changes were intended to improve clarity and administration while keeping the same basic expectations.
+
+</details>
+
+## What was added
+
+<details>
+
+<summary>View section</summary>
+
+A few items were added because they are more important or more visible now than they were in 2007.
+
+- **Competition-law compliance:** the Charter now includes a section stating that each member company remains responsible for its own independent business decisions, and the Operating Manual adds a short reminder for Book sessions and Executive Session.
+- **Records and acknowledgments:** the Charter more clearly identifies records maintained by the Secretary and the use of confidentiality acknowledgments for eligible attendees.
+- **Data access and security:** the Operating Manual adds a dedicated section on who may access “The Book” and how MC materials should be handled.
+
+These additions were meant to support the same trust-based model that has always existed, while making responsibilities clearer in writing.
+
+</details>
+
+## What was removed from the governing document
+
+<details>
+
+<summary>View section</summary>
+
+Some material from the 2007 Protocol was not carried forward into the core governance documents because it was temporary, administrative, or historical rather than foundational.
+
+- **Current officer names:** these belong in a current officers page or annual record, not in the permanent Charter.
+- **Current fee schedules:** these are time-sensitive and better maintained separately from the governing documents.
+- **The moderator contract:** this is still important, but it is better handled as a separate agreement rather than as an exhibit inside the core governance document.
+- **Some historical detail:** certain older administrative specifics were shortened, relocated to the Operating Manual, or removed where they no longer functioned well as permanent rules.
+
+These items were not removed because they were unimportant. They were removed because they fit better in separate current records or agreements.
+
+</details>
+
+## What this rewrite is trying to accomplish
+
+<details>
+
+<summary>View section</summary>
+
+The rewrite is trying to do four things:
+
+1.  preserve the values and operating logic of the 2007 Protocol,
+2.  make the governance framework easier to understand,
+3.  make operating procedures easier to update, and
+4.  remove historical and administrative clutter from the core governing document.
+
+In that sense, the proposed Charter and Operating Manual are not meant to replace the identity of Management Concepts. They are meant to organize it more clearly for current and future use.
+
+</details>
+
+## Questions for member review
+
+<details>
+
+<summary>View section</summary>
+
+As members review the proposed Charter and Operating Manual, the most useful questions may be:
+
+- Does the split between governance and operations make sense?
+- Does the Charter preserve the important principles of MC?
+- Does the Operating Manual reflect how MC actually functions today?
+- Are there any provisions from the 2007 Protocol that were unintentionally lost?
+- Are any of the new clarifications too restrictive, too vague, or not reflective of current practice?
+
+</details>
