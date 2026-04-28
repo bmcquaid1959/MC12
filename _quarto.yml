@@ -25,7 +25,6 @@ website:
           - text: "Meeting Archive"
             href: meetings/archive.qmd
       - text: "Financial"
-
         menu:
           - text: "Financial Home"
             href: financial/index.qmd
@@ -39,12 +38,15 @@ website:
         menu:
           - text: "Governance Home"
             href: governance/index.qmd
-          - text: "Charter"
+          - text: "Existing Protocol"
+            href: docs/MC Protocol 2007_02_20.pdf
+          - text: "Proposed Charter"
             href: governance/charter.qmd
-          - text: "Operating Manual"
+          - text: "Proposed Operating Manual"
             href: governance/operating_manual.qmd
           - text: "Officers"
             href: governance/officers.qmd
+
       - text: "Members"
         menu:
           - text: "Members Home"
@@ -70,7 +72,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: Zephyr
     css: styles/styles.css
     toc: true
     toc-depth: 3

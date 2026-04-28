@@ -1,3 +1,17 @@
 ---
 title: "Governance"
 ---
+
+This section includes:
+
+1.  the existing [Protocol](../docs/MC_Protocol_2007_02_20.pdf) approved on February 20, 2007.
+
+2.  a *proposed* draft [Charter](charter.qmd) and [Operating Manual](operating_manual.qmd) to replace the existing governance protocol.
+
+3.  The current slate of [officers](officers.qmd).
+
+Per section 1.2 of the existing Protocol
+
+> Any amendments made to the [Protocol](../docs/MC_Protocol_2007_02_20.pdf) must be approved by at least a 75% affirmative vote (rounding up) and the vote must have quorum. For the purposes of changing [Protocol](../docs/MC_Protocol_2007_02_20.pdf), quorum is 10 Members and 8 members must vote affirmatively to the proposed Protocol changes. There is only 1 vote per Member company.
+
+Example of a change regarding voting is more clarity in the [Proposed Charter](charter.qmd), defining [Article 10: Voting](charter.qmd#article-10.-voting) and [Article 11: Quorum](charter.qmd#article-11.-quorum).

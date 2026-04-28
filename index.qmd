@@ -2,6 +2,8 @@
 title: "MC12"
 ---
 
+***This site is in development. It is intended for use by business members of the Management Concepts group.***
+
 ## Management Concepts
 
 This site contains meeting information for upcoming meetings, the future meeting schedule, and links to past meeting notes. It will also have additional resources available as they are identified.
